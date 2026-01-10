@@ -1,4 +1,4 @@
 package br.com.diego.lab.persistencia.pocs.poc01_banco_vs_aplicacao.jdbc;
 
-public class JdbcService {
+public class JdbcRegistroEventoService {
 }
